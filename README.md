@@ -18,4 +18,3 @@ My first ever project (website Sistem pakar medis).
 2. Prisma
 3. PostgresSQL
 4. TypeORm
-5. Password or CORS (idk i can't choose which one better)
