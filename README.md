@@ -1,6 +1,5 @@
 # I-HEALTH
-
-My first ever project.
+My first ever project (website Sistem pakar medis).
 ## UI My Apps
 1. Login Page
 2. Register Page
