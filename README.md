@@ -17,4 +17,4 @@ My first ever project (website Sistem pakar medis).
 1. NestJS (Swagger)
 2. Prisma
 3. PostgresSQL
-4. TypeORm
+4. TypeORm ( ini untuk ORM nya )
